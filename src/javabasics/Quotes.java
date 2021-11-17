@@ -15,7 +15,12 @@ String[] quotes = {"Wisdom is the reward you get for a lifetime of listening whe
         "Friends are those rare people who ask how we are, and then wait to hear the answer.",
         "The art of conversation lies in listening.",
         "You cannot truly listen to anyone and do anything else at the same time.",
-        "We have two ears and one tongue so that we would listen more and talk less."};
+        "We have two ears and one tongue so that we would listen more and talk less.",
+        "Stories are a communal currency of humanity.",
+        "Great stories happen to those who can tell them. ",
+        "The engineers of the future will be poets. ",
+        "The human species thinks in metaphors and learns through stories.",
+        "Sometimes reality is too complex. Stories give it form.",};
 
 
 
